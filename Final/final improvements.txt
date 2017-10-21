@@ -1,0 +1,11 @@
+need to make more links so you can go to all the diff rooms.
+need to write a game intro to explain that you go to rooms to do stuff
+
+need to make keyboard inputs on next level
+need to add spaces.
+
+need to reduce chances of getting payday at work
+need to show money won by fighting boss. 
+
+need to make reason to go to house
+need to fix plasma bug in house
